@@ -1,0 +1,1 @@
+define activity SCB7_I2C_vInit type init sequence 20 with Hardware;
